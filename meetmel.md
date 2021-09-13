@@ -16,7 +16,7 @@ nav-menu: true
 			<h2>Meet Mel</h2>
 		</header>
 	<p><span class="image left"><img src="{% link assets/images/mel03.JPG %}" alt="" /></span>
-	Hi there, my name is Mel and I am the primary counseller at Life Song Counselling. I am really excited to be able to start opening up my servies to new clients in the illawarra region. I am passionate about helping children navigate their emotional world and supporting their families as they journey with them.
+	Hi there, my name is Mel and I am the counseller at Life Song Counselling. I am really excited to be able to start opening up my servies to new clients in the illawarra region. I am passionate about helping children navigate their emotional world and supporting their families as they journey with them.
 	
 	
 	</p>
