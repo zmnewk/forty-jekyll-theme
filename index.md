@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, welcome to Life Song Counselling'
+landing-title: 'Hi, Welcome to Life Song Counselling'
 description:
 image: null
 author: null

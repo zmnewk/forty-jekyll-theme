@@ -1,5 +1,5 @@
 ---
-title: The Life Song approach to counselling
+title: The Life Song approach
 layout: page
 description:
 image: assets/images/img2.jpg
