@@ -2,7 +2,7 @@
 title: The Life Song approach
 layout: page
 description:
-image: assets/images/img2.jpg
+image: assets/images/img2.JPG
 nav-menu: true
 ---
 
