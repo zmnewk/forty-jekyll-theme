@@ -1,11 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, welcome to Life Song Counselling'
+description:
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Life Song would love to hear from you about accessing our counselling services. We are happy to have inital consulations with people to determine how best we can support you.
+Due to Covid-19, currently Life Song is only initating new consulations via telehealth & Zoom Video Conferencing. Please contact Mel via the form or details below to start the conversation.
