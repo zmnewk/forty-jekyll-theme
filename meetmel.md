@@ -2,7 +2,7 @@
 title: Meet Mel
 layout: page
 description:
-image: assets/images/mel02.jpg
+image: assets/images/mel02.JPG
 nav-menu: true
 ---
 
