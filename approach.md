@@ -37,8 +37,8 @@ nav-menu: true
 				<header class="major">
 					<h3>The Tools</h3>
 				</header>
-				<p>I work with tools that uniquely fit your life, drawing from Trauma-Informed Therapy, Acceptance & Commitment Therapy (ACT), Cognitive Behavioural Therapy (CBT), Art Therapy, Narrative Therapy and Internal Family Systems (IFS) techniques.</p> 
-				<p>I am trained in Bio, Psycho, Social, Spiritual intervention and base my therapeutic help on the Christian principle that good advice lies deep within the heart and a person with understanding will draw it out (Proverbs 20:5)</p>
+				<p>I am trained in Bio, Psycho, Social, Spiritual intervention. I work with tools that uniquely fit your life, drawing from Trauma-Informed Therapy, Acceptance & Commitment Therapy (ACT), Cognitive Behavioural Therapy (CBT), Art Therapy, Narrative Therapy and Internal Family Systems (IFS) techniques.</p> 
+				<p>My therapeutic help on the Christian principle that good advice lies deep within the heart and a person with understanding will draw it out (Proverbs 20:5)</p>
 			</div>
 		</div>
 	</section>
@@ -51,7 +51,7 @@ nav-menu: true
 				<header class="major">
 					<h3>The Qualifications</h3>
 				</header>
-				<p>I am registered with the Australian Counselling Association (ACA) and have a background in Teaching (Special Education) as well as extensive experience advocating for and supporting the Autism community. As a mum to my own child living with the challenges of Autism, I am passionate about helping children navigate their emotional world and supporting their families as they journey with them. </p>
+				<p>I am a level 1 registered counseller with the Australian Counselling Association (ACA). I have a background in Teaching (Special Education) as well as extensive experience advocating for and supporting the Autism community. As a mum to my own child living with the challenges of Autism, I am passionate about helping children navigate their emotional world and supporting their families as they journey with them. </p>
 				<p>I am able to provide therapy services to NDIS particpants who are plan managed and self managed.</p>
 			</div>
 		</div>
@@ -66,7 +66,7 @@ nav-menu: true
 					<h3>The Space </h3>
 				</header>
 				<p>Nestled in a peaceful spot beside the ocean, my counselling room creates a safe space where people feel secure, heard and accepted. Telehealth technology means that I can connect with individuals across Australia.</p> 
-				<p>Due to Covid restrictions all sessions are currently via telehealth. Fortunately I have extensive experience in engaging children and have previously worked at School of the Air Broken Hill conducting non face to face schooling, as well as homeschooling my own children.</p>
+				<p>Fortunately I have extensive experience in engaging children and have previously worked at School of the Air Broken Hill conducting non face to face schooling, as well as homeschooling my own children.</p>
 				
 			</div>
 		</div>

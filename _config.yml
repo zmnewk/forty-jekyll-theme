@@ -4,14 +4,14 @@ subtitle: Kiama
 email: lifesongcounselling@gmail.com
 description:
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: lifesongcounselling.com # the base hostname & protocol for your site
 author:
 street_address:
 city: Kiama Heights
 state: NSW
 zip_code: 2533
 country: Australia
-phone: Coming Soon
+phone: 0493 286 364
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
