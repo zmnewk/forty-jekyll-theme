@@ -20,7 +20,7 @@ nav-menu: true
 	<div class="3u 10u$(small)"><h3>Your emotions</h3><p><i>“Emotions are not simply meant to be turned off and on at will. They are meant to be dealt with at the source” Groves & Smith (2019</i>)</p></div>
 	<div class="3u 10u$(small)"><h3>Your behaviours</h3><p><i>“When I accept myself as I am, then I change” Carl Rogers (1961)</i></p></div>
 	<div class="3u 10u$(small)"><h3>Your relationships</h3><p><i>“You are part of a biosphere of your history, connected and informed by those around you” Thomas Hubl (2021)</i></p></div>
-	<div class="3u 10u$(small)"><h3>Your life story</h3></div>
+	<div class="3u 10u$(small)"><h3>Your life story</h3><p><i>“Mental health is a commitment to reality at all costs” Lysa Turkhurst (2022)</i></p></div>
 	</div>
 	<p>Empowering <b>you</b>, as together we discover the skills & resources that have brought you to this moment and what may help as you step into a valued tomorrow.</p>
 </div>
