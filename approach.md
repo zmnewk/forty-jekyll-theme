@@ -51,7 +51,7 @@ nav-menu: true
 				<header class="major">
 					<h3>The Qualifications</h3>
 				</header>
-				<p>I am a level 1 registered counseller with the Australian Counselling Association (ACA). I have a background in Teaching (Special Education) as well as extensive experience advocating for and supporting the Autism community. As a mum to my own child living with the challenges of Autism, I am passionate about helping children navigate their emotional world and supporting their families as they journey with them. </p>
+				<p>I have a Masters in Counselling and am a registered counseller with the Australian Counselling Association (ACA). I have a background in Teaching (Special Education) as well as extensive experience advocating for and supporting the Autism community. As a mum to my own child living with the challenges of Autism, I am passionate about helping children navigate their emotional world and supporting their families as they journey with them. </p>
 				<p>I am able to provide therapy services to NDIS particpants who are plan managed and self managed.</p>
 			</div>
 		</div>
